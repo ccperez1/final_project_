@@ -1,0 +1,27 @@
+    table, th, td{
+      border:3px solid rgb(77, 38, 97); border-collapse: collapse; padding: 1px; text-align: center;font-family: 'Times New Roman', Times, serif;}
+  
+    table{width: 2;}
+  
+    table,td{block-size: 1cm;}
+  
+    .color{background-color: rgb(203, 185, 248);}
+  
+    td{background-color: rgb(235, 227, 213);color:black ;}
+  
+    .Times{background-color: rgb(228, 186, 228);}
+  
+    .act{background-color: rgb(238, 104, 178);}
+  
+    th{background-color: azure; color: black;}
+  
+    .Study{background-color: rgba(240, 105, 105, 0.754);color: rgb(0, 0, 0);}
+  
+    a{color: white;}
+
+    .Terms{font-family:Verdana, Geneva, Tahoma, sans-serif;color: rgba(101, 101, 187, 0.81);}
+
+    h4{font-family: Georgia, 'Times New Roman', Times, serif;color:rgb(224, 198, 132);font-size: 20px}
+
+    .command{color: rgb(231, 123, 222);font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; font-size: 15px;}
+    
